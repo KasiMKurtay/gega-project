@@ -10,7 +10,7 @@ GEGA is a dynamic web application designed to provide users with the latest news
 - **Responsive Design:** The application is fully responsive, ensuring a seamless experience across devices, from desktops to mobile phones.
 
 ## Technologies Used
-- HTML, CSS, and JavaScript for front-end development.
+- HTML, CSS for front-end development.
 - Tailwind CSS for styling and responsive design.
 - Font Awesome for icons and visual enhancements.
 
